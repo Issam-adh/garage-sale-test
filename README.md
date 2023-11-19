@@ -1,6 +1,6 @@
 Veuillez trouver ci-joint un lien pour un tutoriel D'application (video): https://we.tl/t-CCkLrpc3CW <br>
 
-Script for the database:
+<b>Script for the database:</b>
 <br>
 CREATE TABLE cars (
     id INT AUTO_INCREMENT PRIMARY KEY,
